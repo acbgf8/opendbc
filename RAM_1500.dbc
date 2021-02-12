@@ -49,6 +49,12 @@ BO_ 133 PRNDL: 8 XXX
  SG_ PRNDL : 5|14@0+ (1,0) [0|16383] "" XXX
  SG_ NEW_SIGNAL_1 : 40|2@1+ (1,0) [0|3] "" XXX
 
+BO_ 657 DOORS_OPEN: 8 XXX
+ SG_ DOOR_OPEN_FL : 17|1@0+ (1,0) [0|1] "" XXX
+ SG_ DOOR_OPEN_FR : 18|1@1+ (1,0) [0|3] "" XXX
+ SG_ DOOR_OPEN_RL : 19|1@0+ (1,0) [0|1] "" XXX
+ SG_ DOOR_OPEN_RR : 20|1@0+ (1,0) [0|1] "" XXX
+
 
 
 
