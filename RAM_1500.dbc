@@ -65,7 +65,9 @@ BO_ 657 DOORS_OPEN: 8 XXX
  SG_ DOOR_OPEN_FR : 18|1@1+ (1,0) [0|3] "" XXX
  SG_ DOOR_OPEN_RL : 19|1@0+ (1,0) [0|1] "" XXX
  SG_ DOOR_OPEN_RR : 20|1@0+ (1,0) [0|1] "" XXX
-
+ 
+ BO_ 47 BRAKE_PRESSED: 8 XXX
+ SG_ BRAKE_PRESSED : 32|2@1+ (1,0) [0|3] "" XXX
 
 
 
