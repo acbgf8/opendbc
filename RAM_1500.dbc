@@ -47,8 +47,6 @@ BO_ 139 WHEEL_SPEEDS: 8 XXX
  SG_ WHEEL_SPEED_FL : 3|12@0+ (1,0) [0|1] "" XXX
  SG_ WHEEL_SPEED_FR : 19|12@0+ (1,0) [0|1] "" XXX
 
-BO_ 133 TRANSMISSION: 8 XXX
-
 BO_ 166 FORWARD_CAMERA: 8 XXX
  SG_ LKAS_COMMAND : 15|16@0+ (1,-1024) [0|4095] "" XXX
  SG_ LKAS_STATE : 25|1@0+ (1,0) [0|1] "" XXX
@@ -72,4 +70,5 @@ BO_ 657 DOORS_OPEN: 8 XXX
 
 
 CM_ SG_ 792 TURN_SIGNALS "RIGHT IS 2 LEFT IS 1";
-
+CM_ SG_ 35 STEER_ANGLE "negative values indicate right turn, positive values indicate left turn";
+CM_ SG_ 166 LKAS_STATE "appears to be the lkas ready indicator";
