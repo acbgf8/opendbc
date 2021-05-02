@@ -40,9 +40,9 @@ BO_ 55 untitled: 8 XXX
 
 BO_ 258 EPS_1: 8 XXX
  SG_ STEER_ANGLE : 7|16@0+ (1,0) [0|65535] "" XXX
- SG_ MOTOR : 23|16@0+ (1,0) [0|65535] "" XXX
  SG_ COUNTER : 55|4@0+ (1,0) [0|15] "" XXX
  SG_ CHECKSUM : 63|8@0+ (1,0) [0|255] "" XXX
+ SG_ TORQUE_MOTOR : 23|16@0+ (1,0) [0|65535] "" XXX
 
 BO_ 264 PCM: 8 XXX
  SG_ RPM : 7|16@0+ (1,0) [0|65535] "" XXX
